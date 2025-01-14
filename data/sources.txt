@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/pinuto/global-energy-generation-and-capacity-imf
+https://www.kaggle.com/datasets/shahriarkabir/global-electricity-demand-and-generation-dataset
