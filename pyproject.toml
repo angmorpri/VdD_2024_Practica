@@ -3,7 +3,7 @@ name = "vdd-2024-practica"
 version = "0.1.0"
 description = "Práctica de la asignatura de Visualización de Datos, curso 2024-25"
 authors = ["angmorpri <angelmorenoprieto@gmail.com>"]
-license = "MIT"
+license = "GNU GENERAL PUBLIC LICENSE"
 readme = "README.md"
 package-mode = false
 
